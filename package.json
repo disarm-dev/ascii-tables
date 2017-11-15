@@ -1,7 +1,7 @@
 {
-  "name": "ascii_table",
+  "name": "ascii-tables",
   "version": "0.0.1",
-  "description": "Simple utility to parse ascii tables into objects, mainly for simpler testing.",
+  "description": "Simple utility to parse (and generate) ascii tables into objects, mainly for simpler testing.",
   "main": "src/index.js",
   "scripts": {
     "test": "ava"
